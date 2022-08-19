@@ -4,6 +4,7 @@ How to execute the code?
 
 System requirements:
 Operating system: windows , Linux, Mac OS
+
 Tools: Python3 (OpenCV)
 
 Step1:
@@ -22,5 +23,6 @@ Run the main.py file
 
 
 Instruction during project execution:
+
 Use blue background for accurate detection of hand gesture
 Place the cursor over the media player before giving the commands by hand gesture
